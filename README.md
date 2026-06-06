@@ -18,21 +18,6 @@
 - [Feature-Token Representation](#feature-token-representation)
 - [Structural Fidelity Measures](#structural-fidelity-measures)
 - [Unified Loss Function](#unified-loss-function)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Data Format](#data-format)
-- [Usage](#usage)
-- [Training](#training)
-- [Synthetic Data Generation](#synthetic-data-generation)
-- [Evaluation](#evaluation)
-- [Reproducibility](#reproducibility)
-- [Privacy and Anonymity](#privacy-and-anonymity)
-- [Applications](#applications)
-- [Limitations](#limitations)
-- [Future Work](#future-work)
-- [References](#references)
-- [License](#license)
-
 ---
 
 ## Overview
