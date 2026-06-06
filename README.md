@@ -1,9 +1,5 @@
 # Structure-Preserving Conditional Diffusion Models for High-Fidelity Data Synthesis
 
-> **Anonymous Research Repository**  
-> This repository presents a structure-preserving conditional diffusion framework for high-fidelity synthetic data generation.  
-> All author names, institutional affiliations, investigator details, student details, acknowledgements, and administrative identifiers have been removed to maintain anonymity.
-
 ---
 
 ## Table of Contents
